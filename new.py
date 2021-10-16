@@ -1,1 +1,1 @@
-print("I will print joso format file!")
+print("I will print JSON format file!")
